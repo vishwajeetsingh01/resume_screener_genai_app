@@ -62,7 +62,7 @@ Create a Virtual Environment:
 - Add the GOOGLE_API_KEY as a secret environment variable (do not include .env in the uploaded files for security).
 
 ## Deploy the App:
-- vClick “Deploy” in Streamlit Cloud.
+- Click “Deploy” in Streamlit Cloud.
 - Once deployed, access the app via the provided URL (e.g., https://your-app-name.streamlit.app).
 
 ## Test the Deployed App:
